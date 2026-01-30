@@ -3,3 +3,5 @@ x = 2 + 2
 print(x)
 x1 = x*2
 print("A este archivo se agrega x1=", x1)
+x2 = 3*(2*x1+1)
+print("Se hace este cambio en esta rama x2=", x2)
